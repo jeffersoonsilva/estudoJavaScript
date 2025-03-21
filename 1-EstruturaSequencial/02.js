@@ -1,2 +1,2 @@
-let numero = prompt("Digite um número: ")
-console.log("numero informado foi: " + numero)
+let numero = prompt("Digite um número: ");
+console.log("O número informado foi: " + numero);
